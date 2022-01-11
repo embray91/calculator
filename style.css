@@ -1,0 +1,22 @@
+body {
+    margin: 50px;
+}
+
+.screen {
+    background-color: white;
+    height: 50px;
+}
+
+.wrapper {
+    display: flex;
+    background-color: gray;
+    padding: 20px;
+}
+
+.button {
+    width: 70px;
+    height: 50px;
+    background-color: lightblue;
+    font-family: 'Courier New', sans-serif;
+    font-size: 15px;
+}
